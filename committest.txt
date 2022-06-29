@@ -1,8 +1,6 @@
 I am a new file
 Updated file
-<<<<<<< HEAD
 
 Updatin file on the main branch
-=======
 I Updated this file on a new branch
->>>>>>> fist commit on new branch
+updatin on rebase820
